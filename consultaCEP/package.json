@@ -1,0 +1,10 @@
+{
+  "main": "handler.js",
+  "scripts": {
+    "start": "serverless offline start"
+  },
+  "name": "consultacep",
+  "dependencies": {
+    "soap": "^0.31.0"
+  }
+}
